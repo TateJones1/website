@@ -1,0 +1,17 @@
+/* style rules */
+
+img {
+   display: block;
+   padding: 5%;
+   width: 30%;
+   height: fit-content;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    background-color: aqua;
+    height: auto;
+}
+body {
+    background-color: aqua;
+}
